@@ -1,0 +1,15 @@
+Rakiza Core
+Copyright (c) 2026 Rakiza Labs. All rights reserved.
+
+Rakiza Core, its source code and everything in this repository are the property of Rakiza Labs,
+unless a file says otherwise. You may not copy, change, publish, share, sell or otherwise use any of
+it without written permission from Rakiza Labs.
+
+Using the Rakiza Core program is covered by the End User License Agreement in EULA.txt.
+
+Earlier versions: source code that was published under the MIT License (Rakiza Core and Corefold up
+to version 2.2.1) stays under the MIT License for those published copies. This notice covers
+everything added or changed after that.
+
+Third-party parts keep their own licenses. They are listed in THIRD_PARTY_NOTICES.md, and the full
+texts are in the licenses folder.
